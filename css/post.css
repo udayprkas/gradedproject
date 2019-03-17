@@ -1,0 +1,85 @@
+.blogTite {
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3%;
+}
+.blogText {
+    justify-content: center;
+    text-align:justify;
+    margin: 0% 5% 5% 5%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.blogAuthor {
+    padding: 0px 0px 0px 10px;
+}
+.blogContent{
+
+}
+#blogName{
+    font-family: 'Niconne', cursive;
+        font-size: 30px;
+        margin-left: 4.4%;
+}
+
+.header{
+    display: inline ;
+}
+#editBtn{
+	color: white;
+	float: right;
+	background: #ef3b65;
+	border:none;
+	width: 80px;
+	height: 30px;
+    font-family: sans-serif;
+  box-shadow: 0px 15px 20px rgba(46, 0, 0, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+  margin-right: 5%;
+}
+.fa-pencil-square-o{
+	margin-left: 5px;
+}
+#likeBlog{
+    color: white;
+    float: left;
+    background: #ef3b65;
+    border:none;
+    width: 100px;
+    height: 30px;
+    box-shadow: 0px 15px 20px rgba(46, 0, 0, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+  margin-top: .5%;
+}
+
+#addList{
+    color: white;
+    float: left;
+    background: #ef3b65;
+    border:none;
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+    box-shadow: 0px 15px 20px rgba(46, 0, 0, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+  margin-top: .5%;
+}
+#addEventNames{
+    width: 64%;
+    background-color: #dddddd;
+    padding: 10px;
+    color: white;
+}
+.commentValue{
+    color: black;
+    background: white;
+    height: 45px;
+    border: 10px solid white;
+    
+}
+/* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
